@@ -19,6 +19,7 @@ import android.os.Handler;
             Intent iHome= new Intent(Splash_screen2.this, MainActivity.class);
 
             startActivity(iHome);
+            // test
         }
     },4000);
 
